@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+#1,添加 ll 命令
+vim ~/.bash_profile
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF
+## 保存完成之后
+
+source ~/.bash_profile
