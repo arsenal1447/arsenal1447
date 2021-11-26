@@ -10,6 +10,6 @@
 <a href="https://github.com/arsenal1447/arsenal1447">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsenal1447&repo=arsenal1447" />
 </a>
-<a href="https://github.com/arsenal1447/la_blog_test">
+<a href="https://github.com/arsenal1447/go-work">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsenal1447&repo=go-work" />
 </a>
